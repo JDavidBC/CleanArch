@@ -5,3 +5,4 @@ C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.AssemblyInfo.cs
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.pdb
+C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.csprojAssemblyReference.cache
