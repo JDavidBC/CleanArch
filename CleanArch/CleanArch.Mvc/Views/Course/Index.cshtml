@@ -1,18 +1,15 @@
-@model TModel
+@model CleanArch.Application.ViewModels.CourseViewModel
 
-@{
-    Layout = null;
-}
+<div class="container body-context">
+    <div class="row course-context">
+    @foreach (var item in Model.Courses)
+    {
+        <div class="course-image-container">
+            <div class="course-image" style="background-image: url(@item.ImageUrl)">
+            </div>
+        </div>
+        <span>@item.Name</span>
+    }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <title>title</title>
-</head>
-<body>
-<div>
-      
+    </div>
 </div>
-</body>
-</html>

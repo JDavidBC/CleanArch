@@ -89,6 +89,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="CleanArch.Mvc.csproj" t="IncludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="CourseController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
@@ -120,6 +121,9 @@
         <e p="Views" t="Include">
           <e p="_ViewImports.cshtml" t="Include" />
           <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Course" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
           <e p="Home" t="Include">
             <e p="Index.cshtml" t="Include" />
             <e p="Privacy.cshtml" t="Include" />
@@ -137,6 +141,7 @@
             <e p="site.css" t="Include" />
           </e>
           <e p="favicon.ico" t="Include" />
+          <e p="images" t="Include" />
           <e p="js" t="Include">
             <e p="site.js" t="Include" />
           </e>
