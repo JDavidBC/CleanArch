@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\JESUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,7 @@
         "outputPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\JESUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

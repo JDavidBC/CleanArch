@@ -19,7 +19,14 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
+            "projectPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
+          },
+          "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+            "projectPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

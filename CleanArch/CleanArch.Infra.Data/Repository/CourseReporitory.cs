@@ -5,11 +5,11 @@ using CleanArch.Infra.Data.Context;
 
 namespace CleanArch.Infra.Data.Repository
 {
-    public class CourseReporitory : ICourseRepository
+    public class CourseRepository : ICourseRepository
     {
         private readonly UniversityDbContext _dbContext;
 
-        public CourseReporitory(UniversityDbContext dbContext)
+        public CourseRepository(UniversityDbContext dbContext)
         {
             _dbContext = dbContext;
         }

@@ -22,6 +22,9 @@
         "projectReferences": {
           "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
             "projectPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+          },
+          "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+            "projectPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
           }
         }
       }

@@ -181,7 +181,7 @@
   },
   "packageFolders": {
     "C:\\Users\\JESUS\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -193,7 +193,7 @@
       "outputPath": "C:\\Users\\JESUS\\OneDrive - Chaac Software\\CleanArch\\CleanArch\\CleanArch\\CleanArch.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\JESUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
