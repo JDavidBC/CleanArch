@@ -7,7 +7,6 @@ C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.pdb
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.Views.dll
-C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.Views.pdb
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
@@ -32,7 +31,6 @@ C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.RazorTargetAssemblyInfo.cache
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.RazorTargetAssemblyInfo.cs
-C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.Views.pdb
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csproj.CopyComplete
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.pdb
@@ -45,3 +43,5 @@ C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.pdb
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb
+C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.Views.pdb
+C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.Views.pdb
