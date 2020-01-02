@@ -9,3 +9,5 @@ C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Application\bin\Debug\netstandard2.0\CleanArch.Domain.dll
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Application\bin\Debug\netstandard2.0\CleanArch.Domain.pdb
 C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Application\obj\Debug\netstandard2.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Application\bin\Debug\netstandard2.0\CleanArch.Domain.Core.dll
+C:\Users\JESUS\OneDrive - Chaac Software\CleanArch\CleanArch\CleanArch\CleanArch.Application\bin\Debug\netstandard2.0\CleanArch.Domain.Core.pdb

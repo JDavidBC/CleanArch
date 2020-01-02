@@ -20,6 +20,14 @@
           "CleanArch.Infra.Data.dll": {}
         }
       },
+      "MediatR/8.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.CSharp.dll": {
@@ -620,8 +628,19 @@
         }
       },
       "CleanArch.Domain/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.0"
+        },
+        "runtime": {
+          "CleanArch.Domain.Core.dll": {}
         }
       }
     }
@@ -631,6 +650,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MediatR/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "path": "mediatr/8.0.0",
+      "hashPath": "mediatr.8.0.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -1060,6 +1086,11 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
